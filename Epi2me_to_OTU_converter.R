@@ -24,7 +24,6 @@ for(i in 1:length(Barcodes)){
 
 
 library(data.table)
-abondance_table <- cbindlist(Multi, fill = T)
 #Tente de réunir toutes ces inform  atioons pour faire une table d'abondance 
 mg <- merge(Multi[[1]],Multi[[2]], by = "Species", all = TRUE )
 for(i in 3:length(Barcodes)){
