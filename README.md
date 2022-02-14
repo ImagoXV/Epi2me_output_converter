@@ -1,5 +1,5 @@
-# Epi2me_16S_barcoding_output_converter
-This piece of code might as well be a piece of shit, but it's working. 
+# Epi2me_16S_barcoding_output_converter - POS
+This piece of script (POS) might as well be a piece of shit, but it's working. 
 Make sure you use it in a new empty directory. 
 Just add your EPI2ME 16S barcoding output csv in the directory. 
 
