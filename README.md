@@ -1,3 +1,8 @@
+# This script is vastly outdated. I highly recommend you to treat your data with NanoASV instead of Epi2ME
+
+https://github.com/ImagoXV/NanoASV
+
+
 # Epi2me_16S_barcoding_output_converter - POS
 This piece of script (POS) might as well be a piece of shit, but it's working. 
 Make sure you use it in a new empty directory. 
